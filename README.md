@@ -20,10 +20,15 @@ This is a cross-platform food delivery app built using Flutter, a UI toolkit for
 
 Features:
 User Authentication: Secure user authentication using Firebase Authentication or your preferred authentication system.
+
 Restaurant Listings: Browse a list of available restaurants with details like cuisine type, ratings, and estimated delivery time.
+
 Menu Viewing: View restaurant menus with detailed item information and images.
+
 Order Placement: Intuitive UI for placing food orders with customizations and special instructions.
+
 Order Tracking: Real-time order tracking to monitor the status of placed orders.
+
 User Profile: User profiles with order history and preferences.
 Technologies Used:
 Flutter:
