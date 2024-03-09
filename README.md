@@ -30,11 +30,12 @@ Order Placement: Intuitive UI for placing food orders with customizations and sp
 Order Tracking: Real-time order tracking to monitor the status of placed orders.
 
 User Profile: User profiles with order history and preferences.
+
 Technologies Used:
-Flutter:
 
 Flutter - UI toolkit for building natively compiled applications.
 Dart - Programming language optimized for building Flutter apps.
+
 Backend:
 Utilize a backend service of your choice, such as Firebase, Django, or Node.js with Express.
 
