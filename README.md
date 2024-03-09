@@ -31,13 +31,9 @@ Flutter:
 Flutter - UI toolkit for building natively compiled applications.
 Dart - Programming language optimized for building Flutter apps.
 Backend:
-
 Utilize a backend service of your choice, such as Firebase, Django, or Node.js with Express.
-Database:
 
-Choose a database that integrates well with your backend, like Firebase Realtime Database, Firestore, or MongoDB.
-Setup:
-Clone the repository: git clone https://github.com/your-username/flutter-food-delivery-app.git
+
 Navigate to the project directory: cd flutter-food-delivery-app
 Install dependencies: flutter pub get
 Configure your backend and database settings.
@@ -45,7 +41,12 @@ Running the App:
 Run the app on an emulator or physical device: flutter run
 
 # Demo
-![Screenshot (62)](https://github.com/Prannn182/FoodDeliveryApp/assets/89305305/99cff4d5-945f-4257-94d8-666d3055413d)
+![Screenshot (64)](https://github.com/Prannn182/FoodDeliveryApp/assets/89305305/bfb17ea8-d97e-4baf-bd38-4d8e0e9c2222)
+
+![Screenshot (65)](https://github.com/Prannn182/FoodDeliveryApp/assets/89305305/3acc94a4-a7a3-4f23-8de6-167b493a6b75)
+
+
+
 
 
 
