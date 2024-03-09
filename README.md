@@ -45,6 +45,10 @@ Run the app on an emulator or physical device: flutter run
 
 ![Screenshot (65)](https://github.com/Prannn182/FoodDeliveryApp/assets/89305305/3acc94a4-a7a3-4f23-8de6-167b493a6b75)
 
+🔗 Links
+[linkedin: (https://www.linkedin.com/in/pranali-chobe-086826245) ]
+
+[Github : (https://github.com/Prannn182)]
 
 
 
