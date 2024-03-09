@@ -1,4 +1,4 @@
-# foodlify
+# Foodlify
 
 A new Flutter project.
 
